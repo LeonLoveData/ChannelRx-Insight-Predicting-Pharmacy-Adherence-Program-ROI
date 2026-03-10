@@ -109,13 +109,20 @@ Dashboard Reporting
 
 ## 2. Figures (reports/figures/)
 
-- `pdc_distribution.png`
-- `mpr_distribution.png`
-- `max_gap_distribution.png`
-- `roc_logit.png`
-- `roc_rf.png`
-- `pr_logit.png`
-- `pr_rf.png`
+### pdc_distribution  
+![pdc_distribution](reports/figures/pdc_distribution_diabetes.png)
+
+### mpr_distribution  
+![mpr_distribution](reports/figures/mpr_distribution_diabetes.png)
+
+### max_gap_distribution  
+![max_gap_distribution](reports/figures/max_gap_distribution_diabetes.png)
+
+### ROC_LOGIT  
+![roc_logit](reports/figures/roc_logit.png)
+
+### PR_LOGIT  
+![pr_logit](reports/figures/pr_logit.png)
 
 ---
 
